@@ -484,7 +484,7 @@ window.testComboInStudio = (mainHex, accentHex) => {
 };
 
 // ===== GUIA DE CUIDADOS =====
-function setupCareGuide() {
+function setupCareGuide() {}
   const protocols = {
     fraca: '<strong>Protocolo Fortalecimento:</strong> Faça uma pausa de 3 dias sem esmalte. Aplique base enriquecida com queratina ou cálcio 2x na semana e mantenha as unhas mais curtas e arredondadas até recuperarem a resistência.',
     ressecada: '<strong>Protocolo Hidratação Intensiva:</strong> Evite remover totalmente a cutícula com alicate — apenas empurre suavemente após o banho. Aplique óleo vegetal (jojoba ou amêndoas) 2 vezes ao dia.',
